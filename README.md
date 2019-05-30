@@ -9,7 +9,7 @@ Just a test for laravel package development
 ## Installation
 
 ```shell
-$ composer require "aex/packagetest-for-laravel:dev-master" -vvv
+$ composer require "abcdef/packagetest-for-laravel:dev-master" -vvv
 ```
 
 ## Documentation
